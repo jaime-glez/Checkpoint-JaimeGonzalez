@@ -1,0 +1,8 @@
+Memoria RAM (Random Access Memory):
+La RAM es una memoria volátil que se utiliza para almacenar temporalmente los datos y programas que la CPU (Unidad Central de Procesamiento) necesita acceder rápidamente. Es mucho más rápida que el almacenamiento en disco, pero los datos almacenados en la RAM se pierden cuando la computadora se apaga. La cantidad de RAM en una computadora afecta directamente su rendimiento, ya que una mayor cantidad permite que se ejecuten más programas y tareas simultáneamente sin ralentizar el sistema.
+
+Memoria Cache:
+La memoria caché es una memoria de alta velocidad y pequeña capacidad que actúa como un intermediario entre la CPU y la memoria RAM. Existen diferentes niveles de caché (L1, L2, L3) con velocidades decrecientes y capacidades crecientes. La caché almacena datos y las instrucciones más utilizadas recientemente por la CPU, lo que acelera el acceso a estos datos y reduce la necesidad de acceder a la memoria principal más lenta.
+
+Memoria ROM (Read-Only Memory):
+La memoria ROM es una memoria no volátil que contiene instrucciones y datos que son esenciales para el funcionamiento básico de la computadora. A diferencia de la RAM, los datos almacenados en la ROM no se pierden cuando se apaga la computadora. La BIOS (Sistema Básico de Entrada/Salida) de la computadora, que se encarga de iniciar el sistema operativo, es un ejemplo común de contenido almacenado en la memoria ROM.

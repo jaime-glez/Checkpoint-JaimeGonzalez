@@ -1,0 +1,8 @@
+Navegador web - Google Chrome:
+Google Chrome es un navegador web desarrollado por Google. Es uno de los navegadores más populares y ampliamente utilizados en todo el mundo. Ofrece una interfaz rápida y moderna, una amplia gama de extensiones y complementos, así como integración con otros servicios de Google.
+
+Suite de oficina - Microsoft Office:
+Microsoft Office es una suite de aplicaciones de productividad que incluye programas como Microsoft Word (procesador de texto), Microsoft Excel (hoja de cálculo), Microsoft PowerPoint (programa de presentaciones), entre otros. Estas aplicaciones son ampliamente utilizadas para crear documentos, hojas de cálculo y presentaciones en entornos empresariales y educativos.
+
+Sistema operativo - Ubuntu:
+Ubuntu es un sistema operativo de código abierto basado en Linux. Es conocido por su enfoque en la facilidad de uso y la accesibilidad para los usuarios. Ubuntu ofrece una amplia variedad de aplicaciones y herramientas para tareas diarias, y es especialmente popular entre los usuarios que desean una alternativa de código abierto a los sistemas operativos comerciales.
